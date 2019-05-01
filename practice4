@@ -1,4 +1,4 @@
-1.编写程序数一下 1到 100 的所有整数中出现多少次数字9。
+1.编写程序数一下 1到 100 的所有整数中出现多少次数字9.
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
@@ -20,7 +20,7 @@ int main()
 	system("pause");
 	return 0;
 }
-2.有关一个数的阶乘
+2.有关一个数的阶乘.
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
