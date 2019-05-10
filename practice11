@@ -72,3 +72,4 @@ int main()
 	system("pause");
 	return 0;
 }
+如果说逆序输出一个数的每位数字的话，得用迭代
