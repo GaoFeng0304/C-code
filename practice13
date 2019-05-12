@@ -1,4 +1,4 @@
-1.递归和非递归分别实现求n的阶乘
+1.递归和非递归分别实现求n的阶乘。
 
 用递归
 #define _CRT_SECURE_NO_WARNINGS 1
@@ -46,7 +46,7 @@ int main()
 	system("pause");
 	return 0;
 }
-2.递归方式实现打印一个整数的每一位
+2.递归方式实现打印一个整数的每一位。
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
